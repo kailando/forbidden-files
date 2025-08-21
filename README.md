@@ -3,5 +3,5 @@
 ---
 
 Under any circumstances, DO NOT run these files on your computer.
-There are 3 branches: `windows`, `linux` and `macos`.
+This is the MacOS branch.
 Run at your own risk.
